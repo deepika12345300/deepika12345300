@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Deepika Shakya!
 
-### 💻 B.Tech Information Technology Student | Python Developer | Aspiring AI/ML Engineer
+### 💻 B.Tech Information Technology Student | Aspiring AI/ML Engineer
 
 I'm an aspiring software developer passionate about **Data Structures & Algorithms, Machine Learning, Artificial Intelligence and Generative AI**.
 
@@ -54,20 +54,18 @@ I'm an aspiring software developer passionate about **Data Structures & Algorith
 
 [View Project](https://github.com/deepika12345300/Employee-Attrition-Prediction)
 
-### 3. Language Agnostic Chatbot – Zuno
-- AI-powered chatbot concept for multilingual smart education.
-- Designed to support communication across different languages.
-- **Tech:** Python, FastAPI, LangChain, Gemini API.
+### 3. AI Resume Analyzer – NLP Based Project
+
+- Developed an NLP-based application to analyze resumes and extract important information.
+- Extracts skills, education and experience from uploaded resumes.
+- Uses NLP techniques to analyze resume content.
+- **Tech Stack:** Python, NLP, spaCy, NLTK, Streamlit, PDF Processing.
+
+🔗 [View Project](YOUR_GITHUB_REPOSITORY_LINK)
 
 ---
 
-## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepika12345300&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepika12345300&layout=compact&theme=tokyonight)
-
----
 
 ## 🌐 Connect With Me
 
